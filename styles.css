@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+.lo{
+	background-color:lightblue;
+	height:200px;
+	width:200px;
+	border:2px solid black;
+	color:purple;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	
+}
+.para{
+	text-decoration-color:purple;
+	text-align:center;
+}
